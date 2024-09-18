@@ -1,6 +1,8 @@
 # Berachain Guides
-
-A collection of Berachain EVM examples: code, frameworks, languages, contracts, and more.
+## Features
+- Stake NFTs to earn ERC20 token rewards.
+- Interact with Berachain's EVM.
+- A collection of Berachain EVM examples: code, frameworks, languages, contracts, and more.
 
 ## Requirements
 
